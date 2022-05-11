@@ -33,6 +33,7 @@ Password: 123
 
 HOW TO INSTALL
 
+Unzip the file called admin-area.zip
 
 ***** DON'T FORGET TO CHANGE THE DATABASE NAMES
 
