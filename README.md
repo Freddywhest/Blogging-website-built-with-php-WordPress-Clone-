@@ -7,16 +7,16 @@
     5. And many more
 
 2. User
-     Can share a post
-    > Can view the author of the blog post
-    > Can comment
-    >> And many more
+    1. Can share a post
+    2. Can view the author of the blog post
+    3. Can comment
+    4. And many more
 
 3. General
-    > It has SEO urls
-    > It has 4 colors theme
-    > It has clean urls
-    >> And many more
+    1. It has SEO urls
+    2. It has 4 colors theme
+    3. It has clean urls
+    4. And many more
 
 
 DEMO LINK: 
