@@ -36,8 +36,12 @@ HOW TO INSTALL
 
 ***** DON'T FORGET TO CHANGE THE DATABASE NAMES
 
->>LOCATION: 	>> Database config file for client side -> vendors/db.php ***
-		        >> Database config file for admin area -> admin-area/news-vendors/db.php ***
+LOCATION:
+1. Client Database config file
+-> vendors/db.php
+
+2.Admin Database config file
+-> admin-area/news-vendors/db.php
 			
 
 >>DATABASE(.sql) FILE IS INSIDE "sql file" FOLDER
@@ -46,6 +50,7 @@ HOW TO INSTALL
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROJECT, FEEL FREE TO CONTACT ME ON: *****  
 
 Email -> contact@alfrednti.com / alfrednti5000@gmail.com
+
 Website-> https://alfrednti.com
 
 I WILL REPLY YOU AS SOON AS WE CAN
