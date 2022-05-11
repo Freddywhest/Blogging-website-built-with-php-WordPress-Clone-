@@ -23,7 +23,9 @@ DEMO LINK:
 http://wordpressclonedemo.alfrednti.me
 
 DEFAULT ADMIN LOGIN DETAILS
+
 Email: admin@admin.com
+
 Password: 123
 
 ****VISIT https://alfrednti.com/portfolios FOR MORE PROJECTS****
