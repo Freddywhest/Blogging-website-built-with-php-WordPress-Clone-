@@ -1,13 +1,13 @@
 ***Features***
 1. Admin area
-    i. Can change name, logo, description, theme ....etc
-    ii. Can add user
-    > Can see the history of logo and name changed
-    > Can add ads on the header/nav bar, body and footer without editing the code
-    >> And many more
+    1. Can change name, logo, description, theme ....etc
+    2. Can add user
+    3. Can see the history of logo and name changed
+    4. Can add ads on the header/nav bar, body and footer without editing the code
+    5. And many more
 
 2. User
-    > Can share a post
+     Can share a post
     > Can view the author of the blog post
     > Can comment
     >> And many more
