@@ -1,7 +1,7 @@
 ***Features***
 1. Admin area
-    > Can change name, logo, description, theme ....etc
-    > Can add user
+    i. Can change name, logo, description, theme ....etc
+    ii. Can add user
     > Can see the history of logo and name changed
     > Can add ads on the header/nav bar, body and footer without editing the code
     >> And many more
